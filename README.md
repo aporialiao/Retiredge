@@ -1,7 +1,7 @@
 # Retiredge
 
-* This is a final class project for INDENG 185: Emerging Tech and Social Impact Challenge Lab at UC Berkeley. More information can be found on our slide deck:
-https://docs.google.com/presentation/d/1X0IET0fqcf-If5DrcH0cXRWoBmhCp4HgbDPMjGMy1H4/edit#slide=id.ga11bca5b12_0_0 *
+*This is a final class project for INDENG 185: Emerging Tech and Social Impact Challenge Lab at UC Berkeley. More information can be found on our slide deck:
+https://docs.google.com/presentation/d/1X0IET0fqcf-If5DrcH0cXRWoBmhCp4HgbDPMjGMy1H4/edit#slide=id.ga11bca5b12_0_0*
 
 This repo contains the Portfolio Optimization feature of Retiredge, implemented and annoated through Python and Jupyter Notebooks. It also contains a 
 sample ETF data retrieved from Quandl, which will be used as sample for our predictive. Lastly an image is included as the Mobile GUI prototype to
